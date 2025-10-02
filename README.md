@@ -162,3 +162,4 @@ Therefore, without including searchTerm in the queryKey array, the useQuery hook
 
 - .env : must be included in .gitignore
 # unsplash-images-server-
+# unsplash-images-server-
